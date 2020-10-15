@@ -15,7 +15,7 @@
 ```
 $ pkg update && pkg upgrade
 $ pkg install python
-$ pip2 install requests
+$ pip install requests
 $ pkg install git
 $ git clone https://github.com/anggaxd/fbmail
 ```
